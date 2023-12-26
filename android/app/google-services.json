@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "120367998063",
+    "firebase_url": "https://pontotattoo-7da22.firebaseio.com",
+    "project_id": "pontotattoo-7da22",
+    "storage_bucket": "pontotattoo-7da22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120367998063:android:1d741aecfccfb128d2d99a",
+        "android_client_info": {
+          "package_name": "com.example.ponto_tattoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120367998063-t3ch0t5gvubhotu0omedh9tgiagqidoj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpQgGPE0Pa2nGQ4uIzeUwBR8ZJ2RbNnPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120367998063-t3ch0t5gvubhotu0omedh9tgiagqidoj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
